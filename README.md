@@ -1,2 +1,21 @@
-# SQL-Data-Analysis-Queries
-# SQL Data Analysis Queries  ## Description Developed SQL queries for extracting, filtering, and analyzing structured datasets to generate business insights.  ## Tools Used SQL, PostgreSQL / MySQL  ## Author Dharun P
+Overview
+
+This repository contains SQL queries developed for extracting, filtering, and analyzing structured datasets to generate meaningful business insights and reports.
+
+Technologies Used
+
+SQL
+
+PostgreSQL / MySQL
+
+Features
+
+Data extraction and filtering
+
+Aggregation and reporting queries
+
+Analytical insights generation
+
+Author
+
+Dharun P
